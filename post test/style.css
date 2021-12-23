@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-image: url(/img/jeremy-bishop-G9i_plbfDgk-unsplash\ \(1\).jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+div {
+    font-size: 50px;
+    font-family: monospace;
+    color: #fff;
+    background-color: #ffffff10;
+    backdrop-filter: blur(12px);
+    width: 80%;
+    margin-top: 50px;
+    border-radius: 10px;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
